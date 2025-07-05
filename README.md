@@ -113,3 +113,5 @@ Tree:
     / \
    2   4
 ```
+### Output
+![Screenshot 2025-07-05 at 12 58 55 pm](https://github.com/user-attachments/assets/582d8b95-cb75-474d-ae22-6c68bf612511)
